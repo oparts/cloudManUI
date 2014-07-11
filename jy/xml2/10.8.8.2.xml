@@ -1,0 +1,17 @@
+<VM>
+	<Local>
+		<IP>10.8.8.2</IP>
+	</Local>
+	<Neighbour>
+		<IP>10.8.8.6</IP>
+		<type>server</type>
+		<Send>336</Send>
+		<Receive>336</Receive>
+	</Neighbour>
+	<Neighbour>
+		<IP>192.168.3.14</IP>
+		<type>server</type>
+		<Send>0</Send>
+		<Receive>160</Receive>
+	</Neighbour>
+</VM>
